@@ -8,4 +8,4 @@ atividade de FIA
 - André Kaled Duarte Coutinho Andrade (andre.andrade@icomp.ufam.edu.br)
 - Luiz Henrique Barbosa Costa (luiz.costa@icomp.ufam.edu.br)
 - Marcus Phablo Pereira de Oliveira (marcus.oliveira@icomp.ufam.edu.br)
-- 
+- Conceição Barbosa Rocha (conceicao.rocha@icomp.ufam.edu.br)
